@@ -1,0 +1,362 @@
+.header{
+    width: 1280px;
+    position: fixed;
+}
+*{
+    padding:0px;
+    margin:0px;
+}
+.a{
+    padding-top: 60px;
+    padding-bottom: 30px;
+    color:indianred;
+}
+.b{
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+.ab{
+    padding-top: 25px;
+}
+.ac{
+    padding-top: 25px;
+}
+.ad{
+    padding-top: 25px;
+    color:darkolivegreen;
+}
+.ae{
+    padding-top: 25px;
+    color:darkolivegreen;
+}
+.af{
+    padding-top: 25px;
+    color:darkolivegreen;
+}
+.ag{
+    padding-top: 20px;
+}
+.ap{
+    padding-top: 20px;
+    color:darkolivegreen;
+}
+.as{
+    padding-top: 20px;
+    color:darkolivegreen;
+}
+.au{
+    padding-top: 30px;
+}
+.ok{
+    padding-top: 10px;
+}
+.yey{
+    border-radius: 5rem;
+}
+/* kode css navigator */
+ul{
+    list-style: none;
+    background-color:cadetblue;
+    padding: 0px 0px;
+    margin: 120px 0px;
+    position: fixed;
+    width: 1285px;
+    height: 85px;
+}
+ul li{
+    display: inline-block;
+    border-radius: 2rem;
+    position: relative;
+    height: 60px;
+    padding: 10px 8px;
+}
+ul li a{
+    padding: 10px 0px;
+    border-radius: 2rem;
+    text-align: center;
+}
+ul a:hover{
+    background-color:darksalmon;
+    border-radius: 2rem;
+    padding: 5px;
+    margin: 35px;
+    height: 10px;
+}
+/* kode css dropdown */
+ul li ul.dropdown{
+    background-color: khaki;
+    position: absolute;
+    display: none;
+    width: auto;
+    height: auto;
+    margin: 0px 0px;
+}
+ul li:hover ul.dropdown{
+    display: block;
+    border-radius: 1rem;
+}
+/* kode css side bar */
+.test{
+    display: flexbox;
+}
+
+.column{
+    float: left;
+    padding: 0px 10px;
+}
+/* LEFT COLUMN */
+.column.side{
+    margin: 250px 0px;
+    width: 273px;
+    height: 1030px;
+    border-radius: 5rem;
+    background-color:palegoldenrod;
+    font-family: Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+/* Kode css middle bar */
+.column.middle{
+    margin: 190px 0px;
+    width: 950px;
+    height: 800px;
+    color: #404040;
+    font-family: Cochin, Georgia, Times, 'Times New Roman', serif;  
+}
+/* Gaya untuk elemen ordered list */
+ol.z {
+    list-style-type: none; /* Menonaktifkan penomoran otomatis */
+    background-color: cadetblue; /* Warna latar belakang */
+    padding: 10px; /* Ruang dalam elemen */
+    border-radius: 10px; /* Membuat sudut melengkung */
+}
+
+/* Gaya untuk item di dalam ordered list */
+ol.z li {
+    background-color: bisque; /* Warna latar belakang item */
+    margin: 5px; /* Jarak antar item */
+    padding: 5px; /* Ruang dalam item */
+    border-radius: 5px; /* Membuat sudut item melengkung */
+}
+
+/* Efek hover untuk ordered list */
+ol.z:hover {
+    background: darkkhaki; /* Warna latar belakang saat hover */
+}
+
+/* kode footer */
+.Footer{
+    width: 1280px;
+    position: fixed;
+    margin: 2500px 550px;
+}
+h2{
+    color: #404040;
+}
+.inter{
+    color:indianred;
+}
+.kerja{
+    padding-top: 20px;
+}
+.sama{
+    padding-bottom: 20px;
+}
+
+body{
+    /* Gambar latar belakang */
+    background: url('Untitled\ design.svg') no-repeat center center fixed;
+    
+    /* Menyesuaikan ukuran gambar agar memenuhi layar */
+    background-size: cover;
+}
+
+ol.a{
+    list-style-type: lower-latin; /* Tipe penomoran huruf kecil */
+    list-style-position: inside; /* Penomoran berada di dalam elemen */
+    background-color: cadetblue; /* Warna latar belakang */
+    padding: 10px; /* Ruang dalam elemen */
+    border-radius: 10px; /* Membuat sudut melengkung */
+}
+ol.a li{
+    background-color: bisque; /* Warna latar belakang item */
+    margin: 5px; /* Jarak antar item */
+    padding: 5px; /* Ruang dalam item */
+    border-radius: 5px; /* Membuat sudut item melengkung */
+}
+ol.a:hover{
+    background:darkkhaki;
+}
+ol.b{
+    list-style-type: lower-latin; /* Tipe penomoran huruf kecil */
+    list-style-position: inside; /* Penomoran berada di dalam elemen */
+    background-color: cadetblue; /* Warna latar belakang */
+    padding: 10px; /* Ruang dalam elemen */
+    border-radius: 10px; /* Membuat sudut melengkung */
+}
+
+ol.b li{
+    background-color: bisque; /* Warna latar belakang item */
+    margin: 5px; /* Jarak antar item */
+    padding: 5px; /* Ruang dalam item */
+    border-radius: 5px; /* Membuat sudut item melengkung */
+}
+ol.b:hover{
+    background:darkkhaki;
+}
+ol.c{
+    list-style-type: lower-latin; /* Tipe penomoran huruf kecil */
+    list-style-position: inside; /* Penomoran berada di dalam elemen */
+    background-color: cadetblue; /* Warna latar belakang */
+    padding: 10px; /* Ruang dalam elemen */
+    border-radius: 10px; /* Membuat sudut melengkung */
+}
+
+ol.c li{
+    background-color: bisque; /* Warna latar belakang item */
+    margin: 5px; /* Jarak antar item */
+    padding: 5px; /* Ruang dalam item */
+    border-radius: 5px; /* Membuat sudut item melengkung */
+}
+ol.c:hover{
+    background:darkkhaki;
+}
+ol.d{
+    list-style-type: lower-latin; /* Tipe penomoran huruf kecil */
+    list-style-position: inside; /* Penomoran berada di dalam elemen */
+    background-color: cadetblue; /* Warna latar belakang */
+    padding: 10px; /* Ruang dalam elemen */
+    border-radius: 10px; /* Membuat sudut melengkung */
+}
+
+ol.d li{
+    background-color: bisque; /* Warna latar belakang item */
+    margin: 5px; /* Jarak antar item */
+    padding: 5px; /* Ruang dalam item */
+    border-radius: 5px; /* Membuat sudut item melengkung */
+}
+ol.d:hover{
+    background:darkkhaki;
+}
+ol.e{
+    list-style-type: lower-latin; /* Tipe penomoran huruf kecil */
+    list-style-position: inside; /* Penomoran berada di dalam elemen */
+    background-color: cadetblue; /* Warna latar belakang */
+    padding: 10px; /* Ruang dalam elemen */
+    border-radius: 10px; /* Membuat sudut melengkung */
+}
+
+ol.e li{
+    background-color: bisque; /* Warna latar belakang item */
+    margin: 5px; /* Jarak antar item */
+    padding: 5px; /* Ruang dalam item */
+    border-radius: 5px; /* Membuat sudut item melengkung */
+}
+ol.e:hover{
+    background:darkkhaki;
+}
+ol.aa{
+    list-style-type: lower-latin; /* Tipe penomoran huruf kecil */
+    list-style-position: inside; /* Penomoran berada di dalam elemen */
+    background-color: cadetblue; /* Warna latar belakang */
+    padding: 10px; /* Ruang dalam elemen */
+    border-radius: 10px; /* Membuat sudut melengkung */
+}
+
+ol.aa li{
+    background-color: bisque; /* Warna latar belakang item */
+    margin: 5px; /* Jarak antar item */
+    padding: 5px; /* Ruang dalam item */
+    border-radius: 5px; /* Membuat sudut item melengkung */
+}
+ol.aa:hover{
+    background:darkkhaki;
+}
+ol.ab{
+    list-style-type: lower-latin; /* Tipe penomoran huruf kecil */
+    list-style-position: inside; /* Penomoran berada di dalam elemen */
+    background-color: cadetblue; /* Warna latar belakang */
+    padding: 10px; /* Ruang dalam elemen */
+    border-radius: 10px; /* Membuat sudut melengkung */
+}
+
+ol.ab li{
+    background-color: bisque; /* Warna latar belakang item */
+    margin: 5px; /* Jarak antar item */
+    padding: 5px; /* Ruang dalam item */
+    border-radius: 5px; /* Membuat sudut item melengkung */
+}
+ol.ab:hover{
+    background:darkkhaki;
+}
+ol.ac{
+    list-style-type: lower-latin; /* Tipe penomoran huruf kecil */
+    list-style-position: inside; /* Penomoran berada di dalam elemen */
+    background-color: cadetblue; /* Warna latar belakang */
+    padding: 10px; /* Ruang dalam elemen */
+    border-radius: 10px; /* Membuat sudut melengkung */
+}
+
+ol.ac li{
+    background-color: bisque; /* Warna latar belakang item */
+    margin: 5px; /* Jarak antar item */
+    padding: 5px; /* Ruang dalam item */
+    border-radius: 5px; /* Membuat sudut item melengkung */
+}
+ol.ac:hover{
+    background:darkkhaki;
+}
+ol.ad{
+    list-style-type: lower-latin; /* Tipe penomoran huruf kecil */
+    list-style-position: inside; /* Penomoran berada di dalam elemen */
+    background-color: cadetblue; /* Warna latar belakang */
+    padding: 10px; /* Ruang dalam elemen */
+    border-radius: 10px; /* Membuat sudut melengkung */
+}
+
+ol.ad li{
+    background-color: bisque; /* Warna latar belakang item */
+    margin: 5px; /* Jarak antar item */
+    padding: 5px; /* Ruang dalam item */
+    border-radius: 5px; /* Membuat sudut item melengkung */
+}
+ol.ad:hover{
+    background:darkkhaki;
+}
+ol.ae{
+    list-style-type: none; /* Tipe penomoran huruf kecil */
+    list-style-position: inside; /* Penomoran berada di dalam elemen */
+    background-color: cadetblue; /* Warna latar belakang */
+    padding: 10px; /* Ruang dalam elemen */
+    border-radius: 10px; /* Membuat sudut melengkung */
+}
+
+ol.ae li{
+    background-color: bisque; /* Warna latar belakang item */
+    margin: 5px; /* Jarak antar item */
+    padding: 5px; /* Ruang dalam item */
+    border-radius: 5px; /* Membuat sudut item melengkung */
+}
+ol.ae:hover{
+    background:darkkhaki;
+}
+
+
+
+
+
+
+keyframes slide-right {
+    from{
+        margin-left: -200%;
+    }
+    to{
+        margin-left: 0px;
+    }
+    
+}
+
+.lol{
+    display: flex;
+    align-items: center;
+    animation: slide-right 0.5s 100ms;
+    float:left
+}

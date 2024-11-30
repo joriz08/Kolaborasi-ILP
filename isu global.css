@@ -1,0 +1,88 @@
+.inter{
+    color:indianred;
+}
+.o{
+    color:darkolivegreen
+}
+img.kerja{
+    height: 600x;
+    border: rgba(6, 111, 172, 0.849);
+    border-radius: 15%;
+    width: 550px;
+    box-shadow: 20px 20px 5px cadetblue; 
+}
+img.kerja:hover{
+    box-shadow: 20px 20px 5px palevioletred ;
+}
+.isu{
+    padding-top: 15px;
+}
+.sch{
+    padding-top: 30px;
+    color:teal;
+}
+.schh{
+    padding-top: 30px;
+    color:teal;
+}
+.schhh{
+    padding-top: 30px;
+    color:teal;
+}
+.schhhh{
+    padding-top: 30px;
+    color:teal;
+}
+.q{
+    color:darkolivegreen;
+}
+.y{
+    padding-top: 30px;
+    color:rosybrown;
+}
+.d1{
+    padding-left: 12px;
+}
+.d2{
+    padding-left: 12px;
+}
+.d3{
+    padding-left: 12px;
+}
+.d4{
+    padding-left: 12px;
+}
+
+.back-button { 
+    margin-top: 20px; 
+    padding: 10px 20px; 
+    background-color: darksalmon; 
+    color: white; 
+    text-decoration: none; 
+    border-radius: 5px; 
+    display: inline-block; 
+} 
+ 
+.back-button:hover { 
+    background-color:darkkhaki; 
+} 
+ 
+.next-button { 
+    margin-top: 20px; 
+    padding: 10px 20px; 
+    background-color:darksalmon; 
+    color: white; 
+    text-decoration: none; 
+    border-radius: 5px; 
+    display: inline-block; 
+} 
+.next-button:hover { 
+    background-color:darkkhaki;
+}
+body{
+    /* Gambar latar belakang */
+    background: url('Untitled\ design.svg') no-repeat center center fixed;
+    
+    /* Menyesuaikan ukuran gambar agar memenuhi layar */
+    background-size: cover;
+}

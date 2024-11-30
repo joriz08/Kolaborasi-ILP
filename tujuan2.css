@@ -1,0 +1,229 @@
+.t{
+    color:indianred;
+}
+.m{
+    color:darkolivegreen;
+}
+.q{
+    color:darkolivegreen;
+}
+.z{
+    padding-top: 30px;
+    color:rosybrown
+}
+.j{
+    padding-top: 20px;
+}
+.t1{
+    padding-left: 12px;
+}
+.t2{
+    padding-left: 12px;
+}
+.t3{
+    padding-left: 12px;
+}
+.t4{
+    padding-left: 12px;
+}
+.t5{
+    padding-left: 12px;
+}
+.t6{
+    padding-left: 12px;
+}
+.t7{
+    padding-left: 12px;
+}
+.t8{
+    padding-left: 12px;
+}
+.t9{
+    padding-left: 12px;
+}
+.k1{
+    padding-left: 12px;
+}
+.k2{
+    padding-left: 12px;
+}
+.k3{
+    padding-left: 12px;
+}
+.k4{
+    padding-left: 12px;
+}
+.k5{
+    padding-left: 12px;
+}
+.k6{
+    padding-left: 12px;
+}
+.k7{
+    padding-left: 12px;
+}
+.k8{
+    padding-left: 12px;
+}
+.k9{
+    padding-left: 12px;
+}
+.d1{
+    padding-left: 12px;
+}
+.d2{
+    padding-left: 12px;
+}
+.d3{
+    padding-left: 12px;
+}
+.d4{
+    padding-left: 12px;
+}
+.d5{
+    padding-left: 12px;
+}
+.p1{
+    padding-left: 12px;
+}
+.p2{
+    padding-left: 12px;
+}
+.p3{
+    padding-left: 12px;
+}
+.p4{
+    padding-left: 12px;
+}
+.p5{
+    padding-left: 12px;
+}
+.p6{
+    padding-left: 12px;
+}
+.p7{
+    padding-left: 12px;
+}
+.p8{
+    padding-left: 12px;
+}
+.p9{
+    padding-left: 12px;
+}
+.p10{
+    padding-left: 12px;
+}
+.p11{
+    padding-left: 12px;
+}
+.p12{
+    padding-left: 12px;
+}
+.ok{
+    padding-top: 35px;
+    color:indianred;
+}
+.okei{
+    padding-top: 20px;
+    color:teal;
+}
+.okeii{
+    padding-top: 20px; 
+    color:teal;
+}
+.okeiii{
+    padding-top: 20px; 
+    color:teal;
+}
+.okeiiii{
+    padding-top: 20px; 
+    color:teal;
+}
+.okeiiiii{
+    padding-top: 20px; 
+    color:teal;
+}
+.okeiiiiii{
+    padding-top: 20px; 
+    color:teal;
+}
+.on{
+    padding-top: 10px; 
+    color:teal;
+}
+.oni{
+    padding-top: 10px; 
+    color:teal;
+}
+.onii{
+    padding-top: 10px; 
+    color:teal;
+}
+.oniii{
+    padding-top: 10px; 
+    color:teal;
+}
+.oniiii{
+    padding-top: 10px; 
+    color:teal;
+}
+.oniiiii{
+    padding-top: 10px; 
+    color:teal;
+}
+.oniiiiii{
+    padding-top: 10px; 
+    color:teal;
+}
+.oniiiiiii{
+    padding-top: 10px; 
+    color:teal;
+}
+.oniiiiiiii{
+    padding-top: 10px; 
+    color:teal;
+}
+
+.back-button { 
+    margin-top: 20px; 
+    padding: 10px 20px; 
+    background-color: darksalmon; 
+    color: white; 
+    text-decoration: none; 
+    border-radius: 5px; 
+    display: inline-block; 
+} 
+ 
+.back-button:hover { 
+    background-color:darkkhaki; 
+} 
+ 
+.next-button { 
+    margin-top: 20px; 
+    padding: 10px 20px; 
+    background-color:darksalmon; 
+    color: white; 
+    text-decoration: none; 
+    border-radius: 5px; 
+    display: inline-block; 
+} 
+.next-button:hover { 
+    background-color:darkkhaki;
+}
+img.k{
+    height: 450x;
+    border: rgba(6, 111, 172, 0.849);
+    border-radius: 20%;
+    width: 600px;
+    box-shadow: 20px 20px 10px cadetblue; 
+}
+img.k:hover{
+    box-shadow: 20px 20px 10px palevioletred ;
+}
+body{
+    /* Gambar latar belakang */
+    background: url('Untitled\ design.svg') no-repeat center center fixed;
+    
+    /* Menyesuaikan ukuran gambar agar memenuhi layar */
+    background-size: cover;
+}

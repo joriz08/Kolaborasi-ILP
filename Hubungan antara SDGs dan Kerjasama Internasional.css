@@ -1,0 +1,90 @@
+.h{
+    padding-top: 20px;
+    color: indianred;
+}
+.a{
+    padding-bottom: 10px;
+}
+.o{
+    color:darkolivegreen;
+}
+.y{
+    padding-top: 15px;
+    color:teal;
+}
+.b{
+    padding-top: 20px;
+    color:teal;
+}
+.c{
+    padding-top: 10px;
+    color:darkolivegreen;
+}
+.d{
+    padding-top: 10px;
+    color:darkolivegreen;
+}
+.x{
+    padding-top: 35px;
+    color:rosybrown
+}
+.z{
+    padding-top: 30px;
+    color:teal;
+}
+.r{
+    padding-top: 10px;
+    color:darkolivegreen;
+}
+.ab{
+    padding-left: 15px;
+}
+.ac{
+    padding-left: 15px;
+}
+.ad{
+    padding-left: 15px;
+}
+.ae{
+    padding-left: 15px;
+}
+.af{
+    padding-left: 15px;
+}
+
+.y{
+    padding-top: 25px;
+}
+.back-button { 
+    margin-top: 20px; 
+    padding: 10px 20px; 
+    background-color: darksalmon; 
+    color: white; 
+    text-decoration: none; 
+    border-radius: 5px; 
+    display: inline-block; 
+} 
+ 
+.back-button:hover { 
+    background-color:darkkhaki; 
+} 
+ 
+.next-button { 
+    margin-top: 20px; 
+    padding: 10px 20px; 
+    background-color:darksalmon; 
+    color: white; 
+    text-decoration: none; 
+    border-radius: 5px; 
+    display: inline-block; 
+} 
+.next-button:hover { 
+    background-color:darkkhaki;
+}
+body{
+    /* Gambar latar belakang */
+    background: url('Untitled\ design.svg') no-repeat center center fixed;
+    
+    /* Menyesuaikan ukuran gambar agar memenuhi layar */
+    background-size: cover;
+}

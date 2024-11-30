@@ -1,0 +1,85 @@
+.n{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color:indianred;
+}
+.a{
+    padding-top:20px;
+    color:teal;
+}
+.b{
+    padding-top:20px;
+    color:teal;
+}
+.c{
+    padding-top:20px;
+    color:teal;
+}
+.d{
+    padding-top:20px;
+    color:teal;
+}
+.e{
+    padding-top:20px;
+    color:teal;
+}
+.j{
+    padding-top: 60px;
+    color:indianred;
+}
+.s{
+    padding-top: 10px;
+    color:darkolivegreen;
+}
+.r{
+    padding-top: 10px;
+    color:darkolivegreen;
+}
+.v{
+    padding-top: 10px;
+    color:darkolivegreen;
+}
+.o{
+    padding-top: 10px;
+    color:darkolivegreen;
+}
+.p{
+    padding-top: 10px;
+    color:darkolivegreen;
+}
+.q{
+    padding-top: 20px;
+}
+.back-button { 
+    margin-top: 20px; 
+    padding: 10px 20px; 
+    background-color: darksalmon; 
+    color: white; 
+    text-decoration: none; 
+    border-radius: 5px; 
+    display: inline-block; 
+} 
+ 
+.back-button:hover { 
+    background-color:darkkhaki; 
+} 
+ 
+.next-button { 
+    margin-top: 20px; 
+    padding: 10px 20px; 
+    background-color:darksalmon; 
+    color: white; 
+    text-decoration: none; 
+    border-radius: 5px; 
+    display: inline-block; 
+} 
+.next-button:hover { 
+    background-color:darkkhaki;
+}
+body{
+    /* Gambar latar belakang */
+    background: url('Untitled\ design.svg') no-repeat center center fixed;
+    
+    /* Menyesuaikan ukuran gambar agar memenuhi layar */
+    background-size: cover;
+}

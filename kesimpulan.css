@@ -1,0 +1,49 @@
+.w{
+    padding-top: 10px;
+    color:indianred
+}
+.a{
+    padding-top: 25px;
+}
+.b{
+    padding-top: 20px;
+}
+.c{
+    padding-top: 20px;
+}
+.d{
+    padding-top: 20px;
+}
+.back-button { 
+    margin-top: 20px; 
+    padding: 10px 20px; 
+    background-color: darksalmon; 
+    color: white; 
+    text-decoration: none; 
+    border-radius: 5px; 
+    display: inline-block; 
+} 
+ 
+.back-button:hover { 
+    background-color:darkkhaki; 
+} 
+ 
+.next-button { 
+    margin-top: 20px; 
+    padding: 10px 20px; 
+    background-color:darksalmon; 
+    color: white; 
+    text-decoration: none; 
+    border-radius: 5px; 
+    display: inline-block; 
+} 
+.next-button:hover { 
+    background-color:darkkhaki;
+}
+body{
+    /* Gambar latar belakang */
+    background: url('Untitled\ design.svg') no-repeat center center fixed;
+    
+    /* Menyesuaikan ukuran gambar agar memenuhi layar */
+    background-size: cover;
+}
